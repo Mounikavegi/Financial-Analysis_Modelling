@@ -1,7 +1,8 @@
 # Financial-Data Analysis_Modelling
 
 ## Overview
-This project involved comprehensive financial data analysis to optimize operational efficiency and enhance financial performance through strategic business decisions. We utilized a combination of Microsoft Excel, Python, and statistical analysis techniques to preprocess, clean, and analyze financial data.
+This project involved comprehensive financial data analysis to optimize operational efficiency and enhance financial performance through strategic business decisions. 
+We utilized a combination of Microsoft Excel, Python, and statistical analysis techniques to preprocess, clean, and analyze financial data.
 
 ## Key Contributions
 
@@ -23,9 +24,9 @@ Python: Utilized Python for data preprocessing, cleaning, and automation.
 Statistical Analysis (SAS): Incorporated statistical analysis techniques for deriving insights.
 SQL: Employed SQL for querying and manipulating relational databases.
 
-# References
-V-Lookup: Microsoft Excel Documentation
-Regression Modeling: Introduction to Regression Analysis
-Python Documentation: Python Official Documentation
-Statistical Analysis: SAS Documentation
-SQL Documentation: SQL Tutorial
+### References
+  # V-Lookup: Microsoft Excel Documentation
+  # Regression Modeling: Introduction to Regression Analysis
+  # Python Documentation: Python Official Documentation
+  # Statistical Analysis: SAS Documentation
+  # SQL Documentation: SQL Tutorial
